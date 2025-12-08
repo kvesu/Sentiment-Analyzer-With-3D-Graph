@@ -1,213 +1,213 @@
 keyword,sentiment,strength
-accommodative,positive,0.7
-acquisition,positive,0.75
-AI,positive,0.8
-ai breakthrough,positive,0.95
-alliance,positive,0.7
-approval,positive,0.75
-asset purchases,positive,0.7
-avoid,negative,-0.7
-bankruptcy,negative,-0.9
-bear market,negative,-0.8
-bearish,negative,-0.75
-beat expectations,positive,0.8
-big cuts,positive,0.75
-brand loyalty,positive,0.7
-breakthrough,positive,0.85
-bull case,positive,0.75
-bull case theory,positive,0.75
-bullish,positive,0.75
-bullish outlook,positive,0.8
-buy case,positive,0.75
-buy rating,positive,0.8
-buyout,positive,0.85
-cash burn,negative,-0.8
-cash generation,positive,0.75
-cash injection,positive,0.75
-central bank support,positive,0.8
-chip demand,positive,0.75
-cloud expansion,positive,0.85
-cloud growth,positive,0.8
-commodity prices,positive,0.7
-competition,negative,-0.7
-competitive advantage,positive,0.85
-concern,negative,-0.7
-confidence,positive,0.75
-consumer confidence,positive,0.75
-contraction,negative,-0.8
-contract win,positive,0.85
-correction,negative,-0.75
-cpi,negative,-0.7
-crash,negative,-0.95
-currency debasement,positive,0.7
-cut rates,positive,0.8
-cybersecurity,positive,0.75
-data breach,negative,-0.9
-deal secured,positive,0.8
-debt burden,negative,-0.8
-debt reduction,positive,0.75
-decline,negative,-0.75
-declining sales,negative,-0.8
-default,negative,-0.9
-delay,negative,-0.7
-digital transformation,positive,0.8
-disruption,negative,-0.75
-dividend cut,negative,-0.8
-dividend hike,positive,0.8
-dividend increase,positive,0.8
-dividend suspension,negative,-0.85
-dollar weakness,positive,0.7
-dovish,positive,0.75
-downgrade,negative,-0.85
-downturn,negative,-0.8
-drug launch,positive,0.8
-earnings beat,positive,0.85
-earnings miss,negative,-0.9
-environmental concerns,negative,-0.75
-executive departure,negative,-0.8
-expansion,positive,0.8
-FDA approval,positive,0.85
-fear,negative,-0.8
-fed support,positive,0.8
-fine,negative,-0.75
-fiscal stimulus,positive,0.8
-forecast lowered,negative,-0.8
-fragile,negative,-0.75
-free cash flow,positive,0.8
-geopolitical risk,negative,-0.8
-geopolitical tension,positive,0.7
-gold demand,positive,0.75
-gold shortage,positive,0.75
-government stimulus,positive,0.8
-growth,positive,0.8
-guidance cut,negative,-0.9
-guidance raise,positive,0.9
-hawkish,negative,-0.75
-high inflation,negative,-0.85
-higher rates,negative,-0.8
-holiday demand,positive,0.75
-inflation,negative,-0.8
-inflation hedge,positive,0.75
-innovation,positive,0.85
-insolvency,negative,-0.9
-interest rate increase,negative,-0.8
-inventory buildup,negative,-0.75
-investigation,negative,-0.75
-investor optimism,positive,0.8
-job cuts,negative,-0.8
-joint venture,positive,0.75
-labor strikes,negative,-0.8
-lawsuit,negative,-0.8
-layoffs,negative,-0.85
-liquidity,positive,0.75
-liquidity concerns,negative,-0.85
-liquidity injection,positive,0.8
-loose monetary,positive,0.75
-loss,negative,-0.8
-margin compression,negative,-0.8
-margin expansion,positive,0.85
-market leadership,positive,0.9
-market pressure,negative,-0.75
-market share,positive,0.8
-market share loss,negative,-0.9
-merger,positive,0.8
-mining costs,negative,-0.7
-mining output,positive,0.75
-miss expectations,negative,-0.85
-moat,positive,0.85
-momentum,positive,0.8
-monetary stimulus,positive,0.8
-new product launch,positive,0.85
-operational issues,negative,-0.8
-optimism,positive,0.75
-order backlog,positive,0.75
-ore grade,positive,0.7
-outperform,positive,0.85
-outlook reduced,negative,-0.8
-panic,negative,-0.9
-partnership,positive,0.75
-partnership deal,positive,0.85
-patent,positive,0.8
-pboc,positive,0.75
-permit delays,negative,-0.75
-pessimism,negative,-0.8
-platform outage,negative,-0.8
-plunge,negative,-0.9
-policy uncertainty,negative,-0.8
-positive outlook,positive,0.85
-positive sentiment,positive,0.75
-precious metals,positive,0.75
-pricing pressure,negative,-0.8
-production cuts,negative,-0.8
-profit growth,positive,0.85
-profit warning,negative,-0.95
-qe,positive,0.8
-qe taper,negative,-0.75
-qt,negative,-0.75
-quantitative easing,positive,0.8
-quantitative tightening,negative,-0.75
-rally,positive,0.85
-rate cuts,positive,0.85
-rate hikes,negative,-0.85
-rate reduction,positive,0.85
-rebound,positive,0.8
-recall,negative,-0.85
-recession,negative,-0.95
-record revenue,positive,0.95
-recovery,positive,0.8
-regulatory action,negative,-0.8
-regulatory approval,positive,0.8
-regulatory probe,negative,-0.85
-regulatory setback,negative,-0.85
-resilience,positive,0.8
-resource expansion,positive,0.75
-restructuring,negative,-0.75
-restrictive policy,negative,-0.8
-retail sales,positive,0.75
-revenue decline,negative,-0.8
-revenue growth,positive,0.85
-rising prices,negative,-0.75
-risk,negative,-0.75
-risk-off,negative,-0.8
-robust,positive,0.8
-safe haven,positive,0.8
-sanctions,negative,-0.8
-sell rating,negative,-0.85
-sell-off,negative,-0.85
-semiconductor shortage,negative,-0.8
-share buyback,positive,0.8
-share dilution,negative,-0.75
-shortage,negative,-0.8
-slowdown,negative,-0.8
-software upgrade,positive,0.75
-solid,positive,0.75
-spending slowdown,negative,-0.8
-stable,positive,0.7
-stimulus,positive,0.85
-stock split,positive,0.75
-strength,positive,0.8
-strong buy,positive,0.9
-strong earnings,positive,0.9
-strong forecast,positive,0.9
-strong thesis,positive,0.8
-supply chain,negative,-0.8
-surge,positive,0.85
-takeover,positive,0.85
-tapering,negative,-0.75
-tariffs,negative,-0.8
-tech layoffs,negative,-0.85
-tightening,negative,-0.8
-trade war,negative,-0.85
-treatment efficacy,positive,0.8
-uncertainty,negative,-0.8
-underperform,negative,-0.8
-unstable,negative,-0.85
-upgrade,positive,0.85
-vaccine rollout,positive,0.8
-volatility,negative,-0.8
-vulnerable,negative,-0.8
-weak demand,negative,-0.8
-weak earnings,negative,-0.85
-weak forecast,negative,-0.9
-weakness,negative,-0.75
-workforce reduction,negative,-0.85
+accommodative,positive,1.0
+acquisition,positive,1.6
+AI,positive,1.0
+ai breakthrough,positive,1.7
+alliance,positive,1.0
+approval,positive,1.3
+asset purchases,positive,1.0
+avoid,negative,1.0
+bankruptcy,negative,1.7
+bear market,negative,1.0
+bearish,negative,1.0
+beat expectations,positive,1.3
+big cuts,positive,1.0
+brand loyalty,positive,1.0
+breakthrough,positive,1.4
+bull case,positive,1.0
+bull case theory,positive,1.0
+bullish,positive,1.3
+bullish outlook,positive,1.4
+buy case,positive,1.0
+buy rating,positive,1.3
+buyout,positive,1.6
+cash burn,negative,1.0
+cash generation,positive,1.2
+cash injection,positive,1.2
+central bank support,positive,1.2
+chip demand,positive,1.2
+cloud expansion,positive,1.5
+cloud growth,positive,1.2
+commodity prices,positive,1.0
+competition,negative,1.0
+competitive advantage,positive,1.3
+concern,negative,1.0
+confidence,positive,1.2
+consumer confidence,positive,1.2
+contraction,negative,1.0
+contract win,positive,1.5
+correction,negative,1.0
+cpi,negative,1.0
+crash,negative,1.5
+currency debasement,positive,1.0
+cut rates,positive,1.2
+cybersecurity,positive,1.2
+data breach,negative,1.7
+deal secured,positive,1.3
+debt burden,negative,1.0
+debt reduction,positive,1.2
+decline,negative,1.0
+declining sales,negative,1.0
+default,negative,1.5
+delay,negative,1.0
+digital transformation,positive,1.3
+disruption,negative,1.0
+dividend cut,negative,1.0
+dividend hike,positive,1.3
+dividend increase,positive,1.3
+dividend suspension,negative,1.0
+dollar weakness,positive,1.0
+dovish,positive,1.0
+downgrade,negative,1.4
+downturn,negative,1.0
+drug launch,positive,1.6
+earnings beat,positive,1.5
+earnings miss,negative,1.7
+environmental concerns,negative,1.0
+executive departure,negative,1.5
+expansion,positive,1.3
+FDA approval,positive,2.0
+fear,negative,1.0
+fed support,positive,1.2
+fine,negative,1.0
+fiscal stimulus,positive,1.3
+forecast lowered,negative,1.0
+fragile,negative,1.0
+free cash flow,positive,1.3
+geopolitical risk,negative,1.0
+geopolitical tension,positive,1.1
+gold demand,positive,1.0
+gold shortage,positive,1.0
+government stimulus,positive,1.3
+growth,positive,1.3
+guidance cut,negative,1.5
+guidance raise,positive,1.6
+hawkish,negative,1.0
+high inflation,negative,1.0
+higher rates,negative,1.0
+holiday demand,positive,1.3
+inflation,negative,1.0
+inflation hedge,positive,1.0
+innovation,positive,1.3
+insolvency,negative,1.0
+interest rate increase,negative,1.0
+inventory buildup,negative,1.0
+investigation,negative,1.3
+investor optimism,positive,1.3
+job cuts,negative,1.0
+joint venture,positive,1.3
+labor strikes,negative,1.0
+lawsuit,negative,1.0
+layoffs,negative,1.4
+liquidity,positive,1.2
+liquidity concerns,negative,1.0
+liquidity injection,positive,1.3
+loose monetary,positive,1.0
+loss,negative,1.0
+margin compression,negative,1.0
+margin expansion,positive,1.3
+market leadership,positive,1.6
+market pressure,negative,1.0
+market share,positive,1.2
+market share loss,negative,1.5
+merger,positive,1.6
+mining costs,negative,1.0
+mining output,positive,1.0
+miss expectations,negative,1.0
+moat,positive,1.3
+momentum,positive,1.3
+monetary stimulus,positive,1.3
+new product launch,positive,1.6
+operational issues,negative,1.0
+optimism,positive,1.3
+order backlog,positive,1.2
+ore grade,positive,1.0
+outperform,positive,1.5
+outlook reduced,negative,1.0
+panic,negative,1.0
+partnership,positive,1.2
+partnership deal,positive,1.5
+patent,positive,1.3
+pboc,positive,1.0
+permit delays,negative,1.0
+pessimism,negative,1.0
+platform outage,negative,1.2
+plunge,negative,1.0
+policy uncertainty,negative,1.0
+positive outlook,positive,1.4
+positive sentiment,positive,1.3
+precious metals,positive,1.0
+pricing pressure,negative,1.0
+production cuts,negative,1.0
+profit growth,positive,1.3
+profit warning,negative,1.7
+qe,positive,1.2
+qe taper,negative,1.0
+qt,negative,1.0
+quantitative easing,positive,1.2
+quantitative tightening,negative,1.0
+rally,positive,1.3
+rate cuts,positive,1.2
+rate hikes,negative,1.0
+rate reduction,positive,1.2
+rebound,positive,1.3
+recall,negative,1.0
+recession,negative,1.4
+record revenue,positive,1.7
+recovery,positive,1.3
+regulatory action,negative,1.0
+regulatory approval,positive,1.4
+regulatory probe,negative,1.5
+regulatory setback,negative,1.0
+resilience,positive,1.3
+resource expansion,positive,1.2
+restructuring,negative,1.0
+restrictive policy,negative,1.0
+retail sales,positive,1.2
+revenue decline,negative,1.0
+revenue growth,positive,1.3
+rising prices,negative,1.0
+risk,negative,1.0
+risk-off,negative,1.0
+robust,positive,1.3
+safe haven,positive,1.0
+sanctions,negative,1.0
+sell rating,negative,1.0
+sell-off,negative,1.4
+semiconductor shortage,negative,1.0
+share buyback,positive,1.4
+share dilution,negative,1.0
+shortage,negative,1.0
+slowdown,negative,1.0
+software upgrade,positive,1.2
+solid,positive,1.2
+spending slowdown,negative,1.0
+stable,positive,1.2
+stimulus,positive,1.3
+stock split,positive,1.3
+strength,positive,1.3
+strong buy,positive,1.3
+strong earnings,positive,1.5
+strong forecast,positive,1.6
+strong thesis,positive,1.3
+supply chain,negative,1.0
+surge,positive,1.3
+takeover,positive,1.6
+tapering,negative,1.0
+tariffs,negative,1.0
+tech layoffs,negative,1.0
+tightening,negative,1.0
+trade war,negative,1.0
+treatment efficacy,positive,1.4
+uncertainty,negative,1.2
+underperform,negative,1.0
+unstable,negative,1.0
+upgrade,positive,1.3
+vaccine rollout,positive,1.4
+volatility,negative,1.0
+vulnerable,negative,1.0
+weak demand,negative,1.0
+weak earnings,negative,1.3
+weak forecast,negative,1.4
+weakness,negative,1.0
+workforce reduction,negative,1.0
